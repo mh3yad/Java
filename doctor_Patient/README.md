@@ -1,4 +1,4 @@
-# Doctoe_Patient
+# Doctor_Patient
 ## This code check for the following organs:
 `Eyes`
 `Heart`
